@@ -10,3 +10,6 @@ If you want to color your favorite team, you'll need to change the MY_TEAM_NAME 
 
 Then put all this stuff in your local Ubersicht widgets directory. Either git clone the thing or download an archive, it's up to you.
 
+## Screenshot
+
+[![Screenshot](screenshots/screenshot.png)]
