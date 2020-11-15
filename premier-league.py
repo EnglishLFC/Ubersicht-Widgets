@@ -5,7 +5,6 @@
 # Copyright: Nigel Houghton <wutang@warpten.net>
 #
 
-import xml.etree.ElementTree as ET
 import urllib.request
 import json
 import requests
